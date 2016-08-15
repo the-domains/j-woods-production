@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6197749
+  lightness: 0.417518
+  brandStrength: 0.7939068
+  brandColors:
+    - '#35241C'
+    - '#838F83'
+    - '#FFFFF7'
+    - '#E83D2B'
+    - '#2568A3'
+  rhythmicContrast: 0.2867384
+typography_spectrum: 0.7204301
+name: 'J. Woods Production '
