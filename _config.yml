@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.7204301
 color:
   saturation: 0.7132617
   brandStrength: 1
@@ -21,6 +22,5 @@ color:
     - '#C5C9B8'
     - '#E53D2B'
   rhythmicContrast: 0.8530466
-typography_spectrum: 0.7204301
-layout_spectrum: 0.2240143
+layout_spectrum: 0.7867383
 name: 'J. Woods Production '
