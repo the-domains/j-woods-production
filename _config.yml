@@ -11,15 +11,15 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.8100358
+  saturation: 1
   brandStrength: 1
-  lightness: 0.4713262
+  lightness: 0.546595
   brandColors:
-    - '#35241C'
-    - '#838F83'
-    - '#FFFFF8'
-    - '#C5C9B8'
-    - '#E53D2B'
+    - '#080405'
+    - '#C0C5C1'
+    - '#FAFAFA'
+    - '#949EA0'
+    - '#885E33'
   rhythmicContrast: 0.4713262
 typography_spectrum: 0.8172043
 layout_spectrum: 1
