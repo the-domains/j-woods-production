@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[J. Woods Production ]]></title>
+        <description><![CDATA[J. Woods Production ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Aug 2016 07:31:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016's highlight reel. ]]></title>
+            <description><![CDATA[<article><h1>2016's highlight reel. </h1><p>Just a sampling of some music I've worked on in 2016. I hope you enjoy listening!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/345bb03b390b8891f828359ef1b671b5/noop.png?input=http%3A%2F%2Fa1.sndcdn.com%2Fimages%2Ffb_placeholder.png%3F1471271515"></article>]]></description>
+            <link>https://m.soundcloud.com/therealj2music/sets/2016highlights</link>
+            <guid isPermaLink="false">8bc7ed41-9136-44ef-9d9b-8ad759af60db</guid>
+            <pubDate>Sat, 20 Aug 2016 07:31:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
