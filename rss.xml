@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[J. Woods Production ]]></title>
         <description><![CDATA[J. Woods Production ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/j-woods-production/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 07:31:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Aug 2016 07:38:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/j-woods-production/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Using my #auroraaudiostinger to process a cello during mixing. This thing just sounds pristine!]]></title>
+            <description><![CDATA[<article><h1>Using my #auroraaudiostinger to process a cello during mixing. This thing just sounds pristine!</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70ca9d9df63193c8e9399260b01939bb/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fe15%2F13628309_1831415507089204_1623626043_n.jpg%3Fig_cache_key%3DMTMxOTA2MjUxOTAzNDA5MjgzMg%253D%253D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BJOQF9Tjx0g/</link>
+            <guid isPermaLink="false">8430f5dd-c5ff-419a-be6c-93311751b1f2</guid>
+            <pubDate>Sat, 20 Aug 2016 07:38:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2016's highlight reel. ]]></title>
             <description><![CDATA[<article><h1>2016's highlight reel. </h1><p>Just a sampling of some music I've worked on in 2016. I hope you enjoy listening!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/345bb03b390b8891f828359ef1b671b5/noop.png?input=http%3A%2F%2Fa1.sndcdn.com%2Fimages%2Ffb_placeholder.png%3F1471271515"></article>]]></description>
