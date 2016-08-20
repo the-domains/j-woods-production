@@ -4,7 +4,7 @@
         <description><![CDATA[J. Woods Productions ]]></description>
         <link>https://thegrid.ai/j-woods-production/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 09:01:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 09:01:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/j-woods-production/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[JWA_5551.jpg]]></title>
@@ -12,6 +12,20 @@
             <link>https://www.dropbox.com/s/4kt886ed7l91cpz/JWA_5551.jpg?dl=0</link>
             <guid isPermaLink="false">57b7241a-4dbd-473e-861f-08d44ea29a28</guid>
             <pubDate>Sat, 20 Aug 2016 09:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JWA_5531.jpg]]></title>
+            <description><![CDATA[<img src="https://photos-1.dropbox.com/t/2/AADMfTtWSRxmC2BDMpgXeAARWW1V2TEHNtMbVf6WeoDCTQ/12/9877268/jpeg/1024x1024/2/_/0/4/JWA_5531.jpg/CJTu2gQgAiAHKAIoBw/qb9kvktly4zcudu/AAA9PX73GTvuPYbpl5S8QolJa/JWA_5531.jpg">]]></description>
+            <link>https://www.dropbox.com/s/qb9kvktly4zcudu/JWA_5531.jpg?dl=0</link>
+            <guid isPermaLink="false">1465b8ae-75ed-4885-a2fc-154dbad75c1d</guid>
+            <pubDate>Sat, 20 Aug 2016 09:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ Together we stand.]]></title>
+            <description><![CDATA[<article><h1> Together we stand.</h1><p></p></article>]]></description>
+            <link>https://www.dropbox.com/s/gaqiu03iajdpa22/JWA_5545.jpg?dl=0</link>
+            <guid isPermaLink="false">e842a578-92a8-42c3-9f41-f28b59e7d9e0</guid>
+            <pubDate>Sat, 20 Aug 2016 09:00:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PSI Audio]]></title>
@@ -61,13 +75,6 @@
             <link>https://www.instagram.com/p/BJOQF9Tjx0g/</link>
             <guid isPermaLink="false">8430f5dd-c5ff-419a-be6c-93311751b1f2</guid>
             <pubDate>Sat, 20 Aug 2016 07:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016's highlight reel. ]]></title>
-            <description><![CDATA[<article><h1>2016's highlight reel. </h1><p>Just a sampling of some music I've worked on in 2016. I hope you enjoy listening!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/345bb03b390b8891f828359ef1b671b5/noop.png?input=http%3A%2F%2Fa1.sndcdn.com%2Fimages%2Ffb_placeholder.png%3F1471271515"></article>]]></description>
-            <link>https://m.soundcloud.com/therealj2music/sets/2016highlights</link>
-            <guid isPermaLink="false">8bc7ed41-9136-44ef-9d9b-8ad759af60db</guid>
-            <pubDate>Sat, 20 Aug 2016 07:31:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
