@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.8172043
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 0.546595
+  rhythmicContrast: 0.4713262
   brandColors:
     - '#080405'
     - '#C0C5C1'
     - '#FAFAFA'
     - '#949EA0'
     - '#885E33'
-  rhythmicContrast: 0.4713262
-typography_spectrum: 0.8172043
-layout_spectrum: 1
+  lightness: 0.546595
+layout_spectrum: 0.3369175
 name: 'J. Woods Production '
