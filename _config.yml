@@ -10,7 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8172043
+typography_spectrum: 0.8835126
 color:
   saturation: 1
   brandStrength: 1
@@ -22,5 +22,5 @@ color:
     - '#949EA0'
     - '#885E33'
   lightness: 0.546595
-layout_spectrum: 0.3369175
+layout_spectrum: 0
 name: 'J. Woods Production '
